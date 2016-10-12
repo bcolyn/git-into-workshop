@@ -1,5 +1,4 @@
 ---
-title: "Untitled"
 author: "Dries Reynders"
 date: "23 juni 2016"
 output: html_document

@@ -5,6 +5,8 @@ date: "23 juni 2016"
 output: word_document
 ---
 
+This is a piece of text that does not conflict.
+
 This is just a tiny document to illustrate Git with RStudio. The complete illustration contains:
 
   + main.Rmd: the main rmarkdown-file
